@@ -47,6 +47,6 @@ And so on just about every word in the search bar.
 Now we will take the cut of all the sources, **we will get the sources where the whole search bar appears!**
 
 ### Extensions:
-Even a signal error will bring me results. (I go through all the possible mistakes and perform the search for them).
+Even a spelling error will bring me results. (I go through all the possible mistakes and perform the search for them).
 
 By calculating the `score` for each mistake only the 5 best results are displayed.
